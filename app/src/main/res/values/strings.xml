@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="text_header">Convert your dollars to bolivianos and your bolivianos to dollars</string>
+    <string name="text_usd">Dollars</string>
+    <string name="hint_usd">Insert quantity in dollars</string>
+    <string name="text_bob">Bolivianos</string>
+    <string name="hint_bob">Insert quantity bolivianos</string>
+    <string name="button_convert">Convert</string>
+    <string name="button_clear">Clear</string>
+</resources>

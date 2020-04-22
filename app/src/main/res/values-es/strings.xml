@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de Divisas</string>
+
+    <string name="text_header">Convierte tus dólares a bolivianos y tus bolivianos a dolares</string>
+    <string name="text_usd">Dolares</string>
+    <string name="hint_usd">Ingresar cantidad de dólares</string>
+    <string name="text_bob">Bolivianos</string>
+    <string name="hint_bob">Ingresar cantidad de bolivianos</string>
+    <string name="button_convert">Convertir</string>
+    <string name="button_clear">Limpiar</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertitore di Valuta</string>
+
+    <string name="text_header">Converti i tuoi dollari in boliviani e i tuoi boliviani in dollari</string>
+    <string name="text_usd">Dollari</string>
+    <string name="hint_usd">Inserisci un importo in dollari</string>
+    <string name="text_bob">Boliviani</string>
+    <string name="hint_bob">Inserisci un importo in boliviani</string>
+    <string name="button_convert">Convertire</string>
+    <string name="button_clear">Svuotare</string>
+</resources>
